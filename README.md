@@ -3,16 +3,16 @@
 
 
 
-## Malicious page
+#### Malicious page
 
-https://browsermine.com/
-https://lightminer.co/
-http://bestway2earnbtc.000webhostapp.com/
-http://winfreedogecoin.faucetfly.com/
-http://winfreebitcoin.faucetfly.com/
+-https://browsermine.com/
+-https://lightminer.co/
+*http://bestway2earnbtc.000webhostapp.com/
+*http://winfreedogecoin.faucetfly.com/
+*http://winfreebitcoin.faucetfly.com/
 
 
-## Benign
+#### Benign
 
 https://www.thehopepage.org
 https://www.wp-monero-miner.com/
