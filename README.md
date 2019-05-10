@@ -1,9 +1,10 @@
 # Infosec
 
-# 
+
+
 
 ## Malicious page
-------------------
+
 https://browsermine.com/
 https://lightminer.co/
 http://bestway2earnbtc.000webhostapp.com/
@@ -12,13 +13,13 @@ http://winfreebitcoin.faucetfly.com/
 
 
 ## Benign
---------------------------------------
-thehopepage.org
+
+https://www.thehopepage.org
 https://www.wp-monero-miner.com/
 
 
-## Safe
------------------------------------
+### Safe
+
 https://www.worldbank.org/
 https://www.symantec.com/
 https://www.awf.org/
