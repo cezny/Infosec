@@ -1,7 +1,9 @@
-# Infosec
+# Infosec project
+
+This repositpory contains codes and document used during our final project.
 
 
-
+The web pages used are in three categories :
 
 #### Malicious page
 
