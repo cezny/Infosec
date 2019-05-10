@@ -34,4 +34,8 @@ The web pages used are in three categories :
 * https://www.fireeye.com/
 
 
-In the algorithm file, we have two 
+In the algorithm file contains three scripts:
+* *PagesCrawler.py*  used to search for keywords in the web page.
+* *Photo_Extraction.py* used to generate 60 images from a 60 seconds video.
+* *copy_of_cryptojacking_cpu_consumption.py* used to draw graphs used in the final paper.
+
