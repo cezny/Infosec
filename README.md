@@ -43,7 +43,6 @@ In the algorithm file contains three scripts:
 
 
 
-
 **Clone the repo and run the files to see our results.**
 
 
